@@ -1,4 +1,4 @@
-### React Behind Scene
+### React PlacePicker
 
 To instal use:
 
